@@ -1,10 +1,6 @@
 
 # 📘 LeNet-5 on CIFAR-10  
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)  
-![Dataset](https://img.shields.io/badge/Dataset-CIFAR10-blue)  
-![Model](https://img.shields.io/badge/Model-LeNet5-green)  
-
 ## 📖 Project Overview  
 This project implements the **classic LeNet-5 architecture** on the **CIFAR-10 dataset** using PyTorch.  
 
@@ -78,10 +74,10 @@ Epoch [30/30] | Train Acc: 47.6% | Val Acc: 50.6%
 ### 📈 Curves  
 
 #### 🔹 Loss Curve  
-![Loss Curve](results/loss_curve.png)  
+![Loss Curve](results/loss_curve (1).png)  
 
 #### 🔹 Accuracy Curve  
-![Accuracy Curve](results/accuracy_curve.png)  
+![Accuracy Curve](results/accuracy_curve (1).png)  
 
 ---
 
