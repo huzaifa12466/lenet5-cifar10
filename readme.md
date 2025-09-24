@@ -77,11 +77,8 @@ Epoch [30/30] | Train Acc: 47.6% | Val Acc: 50.6%
 
 ### 📈 Curves  
 
-#### 🔹 Loss Curve  
+#### 🔹 Loss And Accuracy Curve
 ![Loss Curve](results/loss_curve.png)  
-
-#### 🔹 Accuracy Curve  
-![Accuracy Curve](results/accuracy_curve.png)  
 
 ---
 
